@@ -1,4 +1,4 @@
-
+# define punctuation
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 
 my_str = "Hello!!!, he said ---and went."
