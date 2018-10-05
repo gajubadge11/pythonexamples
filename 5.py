@@ -1,3 +1,5 @@
+#Example to check whether an integer (entered by the user) is an Armstrong number or not using while loop and if...else statement.
+
 #include <iostream>
 using namespace std;
 
